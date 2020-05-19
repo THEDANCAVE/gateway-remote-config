@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE591F67",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 51.22910199,
+    "ref_longitude": -1.67816672,
+    "ref_altitude": 70,
+    "contact_email": "dancouldridge@me.com",
+    "description": "RPi iC880A TTN Network"
+  }
+}
